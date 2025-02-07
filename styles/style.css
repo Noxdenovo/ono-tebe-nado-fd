@@ -239,11 +239,9 @@
 .about__logo-column {
   display: flex;
   justify-content: center;
-  grid-column: 1;
 }
 
 .about__text-column {
-  grid-column: 2;
   margin-top: 136px;
 }
 
