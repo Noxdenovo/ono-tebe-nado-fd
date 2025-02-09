@@ -178,15 +178,15 @@
   background-size: 165% 100%;
 }
 
-.lots__card-list-item:first-child .card {
+.card_type_film {
   background-image: url("../images/card-lot-01.jpg");
 }
 
-.lots__card-list-item:nth-child(2) .card {
+.card_type_book {
   background-image: url("../images/card-lot-02.jpg");
 }
 
-.lots__card-list-item:nth-child(3) .card {
+.card_type_picture {
   background-image: url("../images/card-lot-03.jpg");
 }
 
